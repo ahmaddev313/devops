@@ -37,7 +37,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:ahmaddev313/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:ahmaddev313/devops.git</developerConnection>
-		<url>git@github.com:nandudemy/devops.git</url>
+		<url>git@github.com:ahmaddev313/devops.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
