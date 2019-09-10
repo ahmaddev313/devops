@@ -17,5 +17,4 @@ public class WelcomeController {
 		model.addAttribute("course", "DevOps");
 		return "index";
 	}
-
 }
