@@ -54,7 +54,7 @@ node {
   }
 
   if(env.BRANCH_NAME == 'develop'){
-    stage('Snapshot Build And Upload Artifacts') {
+    stage('Snapshot Build And Upload Artifacts.') {
       if (isUnix()) {
          sh "'${mvnHome}/bin/mvn' clean deploy"
       } else {
